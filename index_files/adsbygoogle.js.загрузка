@@ -1,0 +1,1 @@
+function spoofing(){window.supertestofsomethingthatblockingadvertisementonmywebsite=false;window.othertestofsomethingwithsomespoofing_lol=true;}spoofing();
